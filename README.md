@@ -2,6 +2,8 @@
 
 A list of a user bot that joins random Discord servers.
 
+Note: There is some IDs that they are the same
+
 ## The story of these bots
 
 You can watch this video made by NTTS (No Text To Speech):
