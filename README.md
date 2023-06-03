@@ -13,9 +13,7 @@ You can watch this video made by NTTS (No Text To Speech):
 ---
 Why we created this repository?
 
-Well, It maybye helpful to Discord to term these account (not 100% sure) and also really helpful
-
-Also for my self ban/kick bot that read from a raw file
+Well, It maybye helpful to Discord to term these account (not 100% sure) and also really helpful for my self ban/kick bot that read from a raw file
 
 
 ---
