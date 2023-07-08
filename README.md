@@ -3,6 +3,9 @@
 A list of a user bot that joins random Discord servers.
 
 Note: There is some IDs that they are the same
+---
+This project is will not active anymore because I can't find any bots
+---
 
 ## The story of these bots
 
